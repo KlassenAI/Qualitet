@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Qualitet</string>
+    <string name="push_notification_permission">Разрешить отправку push уведомлений</string>
+    <string name="geo_permission">Разрешить доступ к геопозиции</string>
+    <string name="get_code">Получить код</string>
+    <string name="enter">Войти</string>
+    <string name="registered">Зарегистрирован?</string>
+    <string name="registration">Регистрация</string>
+    <string name="authorization">Авторизация</string>
+    <string name="input_code">Ввод кода</string>
+    <string name="default_sms_message">Мы отправили СМС с кодом подтверждения на</string>
+    <string name="default_next_code">Новый код можно получить через</string>
+
+    <string-array name="phone_codes">
+        <item>+7</item>
+        <item>+1</item>
+        <item>+0</item>
+    </string-array>
+
+</resources>

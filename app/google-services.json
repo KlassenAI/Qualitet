@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "649012508925",
+    "project_id": "qualitet-7c68c",
+    "storage_bucket": "qualitet-7c68c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:649012508925:android:8461649a24bb19844ea694",
+        "android_client_info": {
+          "package_name": "com.android.qualitet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "649012508925-f88690qh0oe3v4ttt62f9fr1508via6g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKJGXkVNrVE8M6yaI-fTJiTvFgPUmj6XU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "649012508925-f88690qh0oe3v4ttt62f9fr1508via6g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
